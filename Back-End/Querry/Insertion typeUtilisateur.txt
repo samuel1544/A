@@ -1,0 +1,7 @@
+INSERT INTO TypeUtilisateur (nom) VALUES
+    (
+        "client"
+    ),
+    (
+        "coiffeur"
+    );

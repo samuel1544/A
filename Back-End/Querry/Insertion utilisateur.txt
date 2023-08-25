@@ -1,0 +1,13 @@
+//INSERTION UTILISATEUR
+
+INSERT INTO `client`.`utilisateur`
+(`nom`,
+`prenom`,
+`profil`,
+`mdp`,
+`tel`,
+`mail`)
+VALUES
+('charles','samuel','hd','0000','699503958','samuel@yahoo.fr'),
+('Franck','Kamdem','man','1111','690905859','kamdem@yahoo.fr'),
+('Mike','Mbenda','yoo','2222','690905858','mike@yahoo.fr');
